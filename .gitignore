@@ -1,3 +1,5 @@
 category_list.txt
 images/
-tmpImages/
+tmp/
+**/.DS_Store
+config.json

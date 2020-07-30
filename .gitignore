@@ -3,3 +3,4 @@ images/
 tmp/
 **/.DS_Store
 config.json
+credentials.json

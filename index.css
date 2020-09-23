@@ -472,7 +472,7 @@ a
     height: 400px;
     width:100%;
     
-	background: url('images/Accueil/Banni%C3%A8re%20accueil.jpg');
+	background: url('images/Accueil/Banniere%20accueil.jpg');
 	background-size: 100% 400px;
 	background-repeat: no-repeat;
 	background-position: center center;    
@@ -480,12 +480,12 @@ a
 
 #banniere_accueil
 {
-    background: url('images/Accueil/Banni%C3%A8re%20accueil.jpg');
+    background: url('images/Accueil/Banniere%20accueil.jpg');
 }
 
 #banniere_personnalisation
 {
-    background: url('images/Accueil/Banni%C3%A8re%20personnalisation.jpg');
+    background: url('images/Accueil/Banniere%20personnalisation.jpg');
     
 }
 
@@ -588,22 +588,21 @@ a
 
 #bas_page
 {
-    height: auto;
-    width:100%;
-    margin-left:auto;
-    margin-right:auto;
+    text-align:center;
+    padding-top: 20px;
+    color:#e3fff5; /* gris clair */
     font-family: 'Raleway', sans-serif;
     font-size: 15px;
-    text-align:center;
-    padding: 20px 30px;
-    color:#e3fff5; /* gris clair */
     background-color: #252a29; /* vert */
 }
 
 #bas_page h1
 {
     color:#75ddd9;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+
 .copyright
 {
     text-align: center;
